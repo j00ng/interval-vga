@@ -1,0 +1,14 @@
+{
+  "opening_profile": {
+    "door": {"sill": 0.0, "head": 2.1},
+    "window": {"sill": 1.2, "head": 2.1}
+  },
+  "aliases": {
+    "A-DOOR": "door",
+    "A-GLAZ": "window",
+    "A-WALL": "wall"
+  },
+  "layers": {
+    "CUSTOM-LOW-WINDOW": {"kind": "window", "sill": 0.8, "head": 2.0}
+  }
+}
